@@ -1,2 +1,3 @@
 # letsencrypt-scripts
-Scripts to manage letsencrypt creation and renewal
+
+Scripts to manage certificates issued from [letsencrypt.org](https://letsencrypt.org).
